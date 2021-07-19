@@ -3,6 +3,8 @@
   "VersionCode": 42,
   "VersionName": "3.7.21",
   "changeLog": "নতুন ভার্সনে যা থাকছেঃ\n\n১। অ্যাপের সেটিংসে ডার্ক মোড ফিচার যুক্ত হয়েছে\n২। মেনুতে \"প্রচলিত ভুল\" নামের একটি নতুন অপশন যুক্ত হয়েছে\n\nনতুন ফিচারগুলো ব্যবহার করতে এখনই অ্যাপ আপডেট করুন!",
+  "appTutorialUrl": "https://www.youtube.com/watch?v=-jHseMykNQA",
+  "translationTutorialUrl": "https://www.youtube.com/watch?v=-jHseMykNQA",
   "feedbackUrl": "https://forms.gle/E185Hjrdc5ARJ6118",
   "isForceUpdateEnable": false,
   "disclaimer_info": "We mention that, These Translation is done by machine algorithm and are not human confirmed.\n Don't put negative review for this translation feature. "
