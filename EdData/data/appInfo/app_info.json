@@ -7,6 +7,6 @@
   "translationTutorialUrl": "https://www.youtube.com/watch?v=-jHseMykNQA",
   "feedbackUrl": "https://forms.gle/E185Hjrdc5ARJ6118",
   "isForceUpdateEnable": false,
-  "isDailyWordUpdateEnable": false,
+  "isDailyWordUpdateEnable": true,
   "disclaimer_info": "We mention that, These Translation is done by machine algorithm and are not human confirmed.\n Don't put negative review for this translation feature. "
 }
