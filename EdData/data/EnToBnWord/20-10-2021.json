@@ -1,6 +1,7 @@
 
   {
-    "wordMeaning" : [ "denounced:নিন্দা করা" ,
+    "wordMeaning" : [ 
+                     "denounced:নিন্দা করা" ,
                      "enforcers:রক্ষাকারী বাহিনী",
                      "arson:অগ্নিসংযোগ" ,
                      "subdue:দমন করা",
@@ -28,5 +29,6 @@
                      "perhaps:সম্ভবত" ,
                      "reportedly:জানা" ,
                      "heinous:জঘন্য (Shocking)" ,
-                     "urge:চালনা করা,উত্তেজনা"  ]
+                     "urge:চালনা করা,উত্তেজনা"  
+                   ]
    }
