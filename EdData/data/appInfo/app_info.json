@@ -7,6 +7,8 @@
   "translationTutorialUrl": "https://www.youtube.com/watch?v=-jHseMykNQA",
   "daiyWordGenerateTutorialUrl": "https://www.youtube.com/watch?v=Z7lYqTuoBOk",
   "feedbackUrl": "https://forms.gle/E185Hjrdc5ARJ6118",
+  "enToBnDicUrl": "https://raw.githubusercontent.com/Forlonsunny/Try6_iCare/blob/master/en-bn.sqlite",
+  "enToHnDicUrl": "https://raw.githubusercontent.com/Forlonsunny/Try4/master/english-hindi.sqlite",
   "isForceUpdateEnable": false,
   "isDailyWordUpdateEnable": true,
   "disclaimer_info": "We mention that, These Translation is done by machine algorithm and are not human confirmed.\n Don't put negative review for this translation feature. "
