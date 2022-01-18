@@ -9,7 +9,7 @@
   "feedbackUrl": "https://forms.gle/E185Hjrdc5ARJ6118",
   "enToBnDicUrl": "https://raw.githubusercontent.com/Forlonsunny/Try6_iCare/blob/master/en-bn.sqlite",
   "enToHiDicUrl": "https://raw.githubusercontent.com/Forlonsunny/Try4/master/english-hindi.sqlite",
-  "TranslationPracticeInBN": "https://raw.githubusercontent.com/rtejhs/qwplkjn/main/EdData/data/AnubadhCharchaInBN/",
+  "translationPracticeInBN": "https://raw.githubusercontent.com/rtejhs/qwplkjn/main/EdData/data/AnubadhCharchaInBN/",
   "isForceUpdateEnable": false,
   "isDailyWordUpdateEnable": true,
   "disclaimer_info": "We mention that, These Translation is done by machine algorithm and are not human confirmed.\n Don't put negative review for this translation feature. "
