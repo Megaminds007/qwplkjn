@@ -14,5 +14,5 @@ jobs:
           username: sunny_mhs@hotmail.com
           spacename: teamspace
           repository: rtejhs
-          password: ${{ 11CseJnu12 }}
+          password: 11CseJnu12
          
