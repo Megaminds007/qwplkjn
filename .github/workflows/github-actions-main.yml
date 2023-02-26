@@ -11,8 +11,8 @@ jobs:
           fetch-depth: 0
       - uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url:
-            git@bitbucket.com:<sunny_mhs@hotmail.com>/<rtejhs>.git
-          ssh_public_key:                              # <-- use 'secrets' to pass credential information.
-            ${{ secrets.ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCMUzDT1qOqkuGlIpA5wVVpdCxPI12rbK4KLzx5uEKuVagUE6Py+Zqj2AF0JIeyWBlS9piaSpi+0qDwjcu1PucJkbTar91lXNVzp5cjEPmOy8j1pWhLOYh7ixWcYW/E+zxZ1Gdi6VwQimX+aVuPIlcXGL0CyAMm+VEtPvqclx6YAXwE5IU7IQVAiCiHYZdkWsMXc224bkstD4YnTZPcs+Cukkf14JRxTfEy2uxNiFhb8WA45WQ8qUJPfMdaJRAZdxMj8ySDZTabWfgtJOaqKuiIAUmitfWZ1LmKb3grVlOsp9oDXyJ8nZabiWLIruJAN6WZIRcXCw/7Yrk/wj8fd6UioYVvd59A1eqWmZR5jtrzVNQ/ZtjC1lxBSCw+44gYjDmBrgDQ53r+SvfOf/YsIhGu9Nh2K5jhS+FSJ+U4SI9CperQHyByMxFMmw121AbElkilOHy8+rYtfq2p1PZ6DhAbdFUV63QZ1qe6XaSEs6YK+FC+7dflGcAjuSmILtI6vEc=}}
+          username: sunny_mhs@hotmail.com
+          spacename: teamspace
+          repository: rtejhs
+          password: ${{ secrets.11CseJnu12 }}
          
