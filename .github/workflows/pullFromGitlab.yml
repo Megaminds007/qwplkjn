@@ -1,9 +1,10 @@
 name: GitlabSync
 
 on:
-  - push
-  - delete
-
+  push:
+    branches: [ master ]
+  schedule: ## Schedule the job to run at 12.am daily.
+    - cron: '07 12 * * *'
 jobs:
   sync:
     runs-on: ubuntu-latest
