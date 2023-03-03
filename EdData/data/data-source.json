@@ -2,11 +2,11 @@
   
     "app_info": {
         "updated_at": 1618127636,
-        "url": "https://raw.githubusercontent.com/rtejhs/qwplkjn/main/EdData/data/appInfo/app_info.json"
+        "url": "https://gitlab.com/Mahadi07/rtejhs/-/raw/main/EdData/data/appInfo/app_info.json"
     },
     
     "article": {
         "updated_at": 1623472701,
-        "url": "https://raw.githubusercontent.com/rtejhs/qwplkjn/main/EdData/data/article/article_list.json"
+        "url": "https://gitlab.com/Mahadi07/rtejhs/-/raw/main/EdData/data/article/article_list.json"
     }
 }
