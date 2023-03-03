@@ -1,10 +1,8 @@
 name: GitlabSync
 
 on:
-  push:
-    branches: [ master ]
-  schedule: ## Schedule the job to run at 12.am daily.
-    - cron: '22 06 * * *'
+  - push
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -15,7 +13,7 @@ jobs:
         fetch-depth: 0
     - uses: wangchucheng/git-repo-sync@v0.1.0
       with:
-        # Such as https://github.com/wangchucheng/git-repo-sync.git
+        # Such as https://gitlab.com/wangchucheng/git-repo-sync.git
         target-url: ${{ secrets.TARGET_URL }}
         # Such as wangchucheng
         target-username: ${{ secrets.TARGET_USERNAME }}
