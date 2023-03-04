@@ -1,7 +1,7 @@
 {
   "info": "OFFLINE & ONLINE (ENGLISH TO HINDI or BENGALI) DICTIONARY,\n 10,000s EDITORIAL VOCABULARY, CREATE & READ DAY WISE EDITORIAL VOCABULARY, SYNONYM, PARTS OF SPEECH, \nSENTENCE EXAMPLES FROM THE CORPUS, STUDY PLAN VOCABULARY, MCQ QUIZ ON VOCABULARY, ARTICLE READER, SAVE ARTICLE and SEARCH VOCABULARY",
-  "VersionCode": 56,
-  "VersionName": "3.7.35",
+  "VersionCode": 57,
+  "VersionName": "3.7.36",
   "changeLog": "নতুন ভার্সনে যা থাকছেঃ\n\n১। অ্যাপের সেটিংসে ডার্ক মোড ফিচার যুক্ত হয়েছে\n২। মেনুতে \"প্রচলিত ভুল\" নামের একটি নতুন অপশন যুক্ত হয়েছে\n\nনতুন ফিচারগুলো ব্যবহার করতে এখনই অ্যাপ আপডেট করুন!",
   "appTutorialUrl": "https://www.youtube.com/watch?v=-jHseMykNQA",
   "translationTutorialUrl": "https://www.youtube.com/watch?v=-jHseMykNQA",
@@ -9,7 +9,7 @@
   "feedbackUrl": "https://forms.gle/E185Hjrdc5ARJ6118",
   "enToBnDicUrl": "https://raw.githubusercontent.com/Forlonsunny/Try6_iCare/blob/master/en-bn.sqlite",
   "enToHiDicUrl": "https://raw.githubusercontent.com/Forlonsunny/Try4/master/english-hindi.sqlite",
-  "translationPracticeInBN": "https://raw.githubusercontent.com/rtejhs/qwplkjn/main/EdData/data/AnubadhCharchaInBN/",
+  "translationPracticeInBN": "https://gitlab.com/Mahadi07/rtejhs/-/raw/main/EdData/data/AnubadhCharchaInBN/",
   "isForceUpdateEnable": false,
   "isDailyWordUpdateEnable": true,
   "disclaimer_info": "We mention that, These Translation is done by machine algorithm and are not human confirmed.\n Don't put negative review for this translation feature. "
