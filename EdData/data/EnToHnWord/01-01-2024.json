@@ -1,0 +1,34 @@
+{
+  "Farmers": [
+    {
+      "user_id": "01713819040",
+      "Name": " আবু  তালেব ",
+      "Address": " নরসিংদী ",
+	  "product_Name" : "Brinjal_Desi",
+	  "product_info" : "আজকের উত্তলনকৃত ১০০ কেজি দেশি বেগুন"
+    },
+    {
+      "user_id": "01713819041",
+      "Name": " আবু  বক্কর ",
+      "Address": " মানিকগঞ্জ সদর ",
+	  "product_Name" : "Brinjal_Desi",
+	  "product_info" : "আজকের উত্তলনকৃত ২ মন দেশি বেগুন"
+    }
+  ],
+  "Investors": [
+    {
+      "user_id": "01713819050",
+      "Name": " আব্দুর রাজ্জাক ",
+      "Address": "কাওরানবাজার, ঢাকা ",
+	  "product_Name" : "Brinjal_Desi",
+	  "product_info" : "আজকের উত্তলনকৃত ১০০ কেজি দেশি বেগুন লাগবে"
+    },
+    {
+      "user_id": "01713819051",
+      "Name": " আবুল কাশেম ",
+      "Address": " সদরঘাট, ঢাকা  ",
+	  "product_Name" : "Brinjal_Desi",
+	  "product_info" : "আজকের উত্তলনকৃত ২ মন দেশি বেগুন লাগবে"
+    }
+  ]
+}
